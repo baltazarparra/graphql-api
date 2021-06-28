@@ -1,0 +1,54 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "There are no facts, only interpretations",
+      "ativo": true,
+      "author": 1
+    },
+    {
+      "id": 2,
+      "quote": "He who has a why to live for can bear almost any how",
+      "ativo": true,
+      "author": 1
+    },
+    {
+      "id": 3,
+      "quote": "I cannot believe in a God who wants to be praised all the time",
+      "ativo": true,
+      "author": 1
+    },
+    {
+      "id": 4,
+      "quote": "The one you love and the one who loves you are never, ever the same person",
+      "ativo": true,
+      "author": 2
+    },
+    {
+      "id": 5,
+      "quote": "All God does is watch us and kill us when we get boring. We must never, ever be boring",
+      "ativo": true,
+      "author": 2
+    },
+    {
+      "id": 6,
+      "quote": "We all die. The goal isn't to live forever, the goal is to create something that will",
+      "ativo": true,
+      "author": 2
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "author": "NIETZ"
+    },
+    {
+      "id": 2,
+      "author": "PALAHNIUK"
+    },
+    {
+      "id": 3,
+      "author": "BUKOWSKI"
+    }
+  ]
+}
